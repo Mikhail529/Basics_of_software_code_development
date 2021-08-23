@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class CLS {
     public static void main(String[] args) {
 
-        // 2. Вычислить значение выражения по формуле (все переменные принимают действительные значения)
+        // Task 2. Вычислить значение выражения по формуле (все переменные принимают действительные значения)
 
         Scanner scanner = new Scanner(System.in);
         
